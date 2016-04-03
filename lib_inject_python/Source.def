@@ -1,0 +1,5 @@
+LIBRARY "INJMODULE"
+EXPORTS
+InjectPythonCode = InjectPythonCode
+InjectPythonCodeToPID = InjectPythonCodeToPID
+
